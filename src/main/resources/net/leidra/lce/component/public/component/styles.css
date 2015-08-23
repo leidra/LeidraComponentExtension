@@ -1,0 +1,19 @@
+.lce-textfield {
+    padding-right: 16pt !important;
+}
+
+.lce-resetbutton {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    right: 15pt;
+    margin-right: -15pt;
+    top: 0pt;
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
+
+.lce-resetbutton:hover {
+    cursor: pointer;
+}
